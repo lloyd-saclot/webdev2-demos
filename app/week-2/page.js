@@ -5,17 +5,8 @@ export default function Page() {
 
     return (
         <main>
-            <p> This is a ladder</p>
-            < Title />
-            < Title />
-            < Title />
-            < Title />
-            < Title />
-            < Title />
-            < Title />
-            < Title />
-            < Title />
-            <p>SKIBIDI TOILET TWICE</p>
+            <Title />
+            <p>Web Dev 2 Week-2</p>
             <p>
                 The sum of {a} and {b} is {a + b}.
             </p>

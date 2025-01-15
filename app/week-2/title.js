@@ -1,5 +1,5 @@
 export default function Title() {
     return (
-        <h1>H</h1>
+        <h1>This is a title believe it or not</h1>
     );
 }
